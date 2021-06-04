@@ -1,0 +1,8 @@
+C:\Users\Windows 10\source\repos\Vigenère's cipher\bin\Debug\Vigenère's cipher.exe
+C:\Users\Windows 10\source\repos\Vigenère's cipher\bin\Debug\Vigenère's cipher.pdb
+C:\Users\Windows 10\source\repos\Vigenère's cipher\obj\Debug\Vigenère's cipher.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\Vigenère's cipher\obj\Debug\Vigenère_s_cipher.Form1.resources
+C:\Users\Windows 10\source\repos\Vigenère's cipher\obj\Debug\Vigenère_s_cipher.Properties.Resources.resources
+C:\Users\Windows 10\source\repos\Vigenère's cipher\obj\Debug\Vigenère's cipher.csproj.GenerateResource.cache
+C:\Users\Windows 10\source\repos\Vigenère's cipher\obj\Debug\Vigenère's cipher.exe
+C:\Users\Windows 10\source\repos\Vigenère's cipher\obj\Debug\Vigenère's cipher.pdb
